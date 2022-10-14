@@ -1,2 +1,2 @@
 # campros
-Team Campros submission @subtast CASE 2022 @ EMNLP 
+Team Campros submission @subtask CASE 2022 @ EMNLP 
